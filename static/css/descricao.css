@@ -20,8 +20,8 @@
     padding: 1rem;
     width: 80vw;
     margin: 0 auto;
-    border-radius: 6px 6px 0 0;
     opacity: 0.9;
+    border-bottom: 1px solid rgb(202, 202, 202);
 }
 
 .descricao__texto p {
@@ -35,7 +35,6 @@
 @media screen and (max-width: 1024px) {
     .descricao__texto {
         width: 100vw;
-        border-radius: 0;
     }
     .descricao__texto p {
         margin: 2rem 1rem;

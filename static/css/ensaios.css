@@ -20,32 +20,47 @@
     0% {
         background-image: url("../img/casal1.jpeg")
     }
+    5% {
+        background-image: url("../img/feminino8.jpeg")
+    }
     10% {
         background-image: url("../img/feminino7.jpeg")
+    }
+    15% {
+        background-image: url("../img/feminino9.jpeg")
     }
     20% {
         background-image: url("../img/casal2.jpeg")
     }
+    25% {
+        background-image: url("../img/feminino10.jpeg")
+    }
     30% {
         background-image: url("../img/bg2.jpeg")
     }
-    40% {
+    35% {
         background-image: url("../img/feminino2.jpeg")
     }
-    50% {
+    40% {
         background-image: url("../img/casal3.jpeg")
     }
-    60% {
+    45% {
         background-image: url("../img/feminino1.jpeg")
     }
-    70% {
+    50% {
         background-image: url("../img/gestante1.jpeg")
     }
-    75% {
+    55% {
         background-image: url("../img/casal4.jpeg")
     }
-    80% {
+    60% {
         background-image: url("../img/casal2.jpeg")
+    }
+    65% {
+        background-image: url("../img/feminino11.jpeg")
+    }
+    80% {
+        background-image: url("../img/casal1.jpeg")
     }
 }
 
@@ -58,7 +73,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     animation-name: animacao-fotos;
-    animation-duration: 60s;
+    animation-duration: 120s;
     animation-iteration-count: infinite;
 }
 
